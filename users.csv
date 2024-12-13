@@ -1,0 +1,5 @@
+userid,password,name,isAdmin
+best,1234,강소연,false
+ok,123456,ddd,false
+past,bear,bus,false
+Security,hashed_password_here,Manager,truehappy,1234,강소연
